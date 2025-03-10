@@ -1,6 +1,6 @@
 # PostgreSQL Docker Setup
 
-This repository contains SQL scripts for setting up a PostgreSQL database with a specific schema and tables related to a simple business model (see figure for Relation Model below). 
+This repository contains SQL scripts for setting up a PostgreSQL database with a specific schema and tables related to a simple business model (see the figure below for the relational model).
 
 ## Prerequisites
 
