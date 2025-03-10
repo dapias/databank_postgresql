@@ -24,10 +24,10 @@ This repository contains SQL scripts for setting up a PostgreSQL database with a
 
 4. List the schema
    ```sql
-   \dn
+   HandelsU=# \dn
 
 5. List the tables in the ```dbo''' schema
    ```sql
-   \dt dbo.*
+   HandelsU=# \dt dbo.*
 
 
