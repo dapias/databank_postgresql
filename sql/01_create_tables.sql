@@ -1,5 +1,5 @@
 --CREATE DATABASE HandelsU;
-DROP SCHEMA dbo if EXISTS CASCADE;
+DROP SCHEMA IF EXISTS dbo CASCADE;
 create schema dbo;
 
 DROP TABLE IF EXISTS dbo.Filiale;
